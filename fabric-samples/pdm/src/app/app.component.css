@@ -1,0 +1,31 @@
+
+.navbar-nav-add{
+    background-color: silver;
+}
+.text-size a{
+    font-size: medium;
+}
+.top-nav{
+    text-align: center;
+    background-color:firebrick;
+    padding: 20px 0 20px 0;
+    text-decoration: blue;
+    color: white;
+}
+.wrapper{
+    margin:0 auto;
+    width:1000px
+}
+.footer{
+    padding: 10px;
+    background-color: mediumseagreen;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+.textDiv{
+    color:black;
+    text-align: center;
+}
